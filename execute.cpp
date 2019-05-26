@@ -1,5 +1,5 @@
-#include "../header/parse.h"
-#include "../header/execute.h"
+#include "parse.h"
+#include "execute.h"
 #include <sys/stat.h>
 
 /*function to execute a parsed Comamnd*/
